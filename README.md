@@ -1,4 +1,4 @@
-<img width="1218" height="87" alt="image" src="https://github.com/user-attachments/assets/13f17d9b-4b6f-4e05-ae55-04a50f4c15cd" />Home Inventory manager project(Financial Application Development)
+Home Inventory manager project(Financial Application Development)
 
 <img width="1218" height="87" alt="Suven" src="https://github.com/user-attachments/assets/b53ab5dc-e9e1-44fe-b8b5-0e14f5e2f9f1" />
 
